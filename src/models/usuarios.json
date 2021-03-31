@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "José Francisco da Silva",
+    "cpf": 12345678955,
+    "telefone": 954758634,
+    "email": "josefrancisco@hotmail.com"
+  },
+  {
+    "id": 2,
+    "nome": "Maria Sebastiana de Moraes",
+    "cpf": 98765432158,
+    "telefone": 964758963,
+    "email": "msebastiana@gmail.com"
+  },
+  {
+    "id": 3,
+    "nome": "Camila Lira de Albuquerque Lima",
+    "cpf": 36985214756,
+    "telefone": 943104310,
+    "email": "liracamila@me.com"
+  }
+]
