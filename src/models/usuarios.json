@@ -1,6 +1,9 @@
 [
   {
-    "email": "josefrancisco@hotmail.com",
-    "password": "$2b$10$Y6DR.X9nAKL1p0c8kixZHu.FLNiI/cPZXmiajEX9S00tixEVpuvj6"
+    "id": 1,
+    "email": "josefrancisco@gmail.com",
+    "password": "$2b$10$woXBrRgRvM7PJgN8S3aipeIDMiLvja/nBG5S/wIkEOmuRMteCHAA.",
+    "nome": "José Francisco Filho",
+    "telefone": 9743101043
   }
 ]
